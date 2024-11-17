@@ -9,6 +9,7 @@ PCB will use one of those nice nano knock offs and will be wireless plan on addi
 
 a two peice 3dp case with gasket and top mount options
 internally you will find a battery/weight slot and on the exteriror you will find some case engravings 
+
 ![alt text](https://github.com/ShrimpedKeyboard/Q4Z1G0N/blob/main/Pics/Case-2.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/Q4Z1G0N/blob/main/Pics/Case-3.png?raw=true)
 
